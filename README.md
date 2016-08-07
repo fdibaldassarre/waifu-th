@@ -1,13 +1,13 @@
 # waifu-th
-Reimplementation of Waifu2x(https://github.com/nagadomi/waifu2x) in Python using Theano and Lasagne.
+Reimplementation of [Waifu2x](https://github.com/nagadomi/waifu2x) in Python using Theano and Lasagne.
 
 ## Requirements
 
 - Python3
 - Python Imaging Library (PIL)
-- Theano (http://www.deeplearning.net/software/theano/install.html)
-- Lasagne (https://github.com/Lasagne/Lasagne)
-- The models folder from waifu2x (https://github.com/nagadomi/waifu2x/tree/master/models)
+- [Theano](http://www.deeplearning.net/software/theano/install.html)
+- [Lasagne](https://github.com/Lasagne/Lasagne)
+- The [models folder](https://github.com/nagadomi/waifu2x/tree/master/models) from waifu2x
 
 ## Usage
 
@@ -34,4 +34,5 @@ see http://www.deeplearning.net/software/theano/install.html#using-the-gpu for m
 ## TODO
 
 Implement training.
+
 More options.
